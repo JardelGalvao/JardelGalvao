@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently working as a senior support analyst
 - 🌱 I’m currently learning Typescript and Angular
-- 😄 Pronouns: He/Him
 
 ##
   
