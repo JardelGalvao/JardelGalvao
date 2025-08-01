@@ -1,6 +1,6 @@
 ### Hi, I'm Jardel 🤘🏽
 
-- 🔭 I’m currently working as a senior support analyst
+- 🔭 I’m currently working as a Support Specialist
 - 🌱 I’m currently learning Typescript and Angular
 
 ##
