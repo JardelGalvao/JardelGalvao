@@ -1,11 +1,13 @@
 ### Hi, I'm Jardel 🤘🏽
 
-- 🔭 I’m currently working as a Support Specialist
-- 🌱 I’m currently learning Typescript and Angular
+- 🔭 I’m currently working as a Senior Support Specialist
+- 🌱 I’m currently learning Node
 
 ##
   
 <div style="display: inline_block"><br>
+  <img align="center" alt="Jardel-Angular" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg">
+  <img align="center" alt="Jardel-Node" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg">
   <img align="center" alt="Jardel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Jardel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Jardel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
